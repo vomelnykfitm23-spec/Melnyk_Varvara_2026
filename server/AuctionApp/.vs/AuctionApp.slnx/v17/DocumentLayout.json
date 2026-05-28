@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\melni\\Downloads\\Telegram Desktop\\auction-app\\auction-app \u2014 \u043A\u043E\u043F\u0438\u044F\\server\\AuctionApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFC789B-6908-3045-969A-80863A2AA3C8}|AuctionApp.csproj|c:\\users\\melni\\downloads\\telegram desktop\\auction-app\\auction-app \u2014 \u043A\u043E\u043F\u0438\u044F\\server\\auctionapp\\auctionapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3FFC789B-6908-3045-969A-80863A2AA3C8}|AuctionApp.csproj|solutionrelative:auctionapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFC789B-6908-3045-969A-80863A2AA3C8}|AuctionApp.csproj|c:\\users\\melni\\downloads\\telegram desktop\\auction-app\\auction-app \u2014 \u043A\u043E\u043F\u0438\u044F\\server\\auctionapp\\appsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{3FFC789B-6908-3045-969A-80863A2AA3C8}|AuctionApp.csproj|solutionrelative:appsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\melni\\Downloads\\Telegram Desktop\\auction-app\\auction-app \u2014 \u043A\u043E\u043F\u0438\u044F\\server\\AuctionApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\melni\\Downloads\\Telegram Desktop\\auction-app\\auction-app \u2014 \u043A\u043E\u043F\u0438\u044F\\server\\AuctionApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-22T16:50:19.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuctionApp.csproj",
+              "DocumentMoniker": "C:\\Users\\melni\\Downloads\\Telegram Desktop\\auction-app\\auction-app \u2014 \u043A\u043E\u043F\u0438\u044F\\server\\AuctionApp\\AuctionApp.csproj",
+              "RelativeDocumentMoniker": "AuctionApp.csproj",
+              "ToolTip": "C:\\Users\\melni\\Downloads\\Telegram Desktop\\auction-app\\auction-app \u2014 \u043A\u043E\u043F\u0438\u044F\\server\\AuctionApp\\AuctionApp.csproj",
+              "RelativeToolTip": "AuctionApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-22T15:46:21.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

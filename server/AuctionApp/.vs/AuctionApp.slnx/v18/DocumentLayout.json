@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kostya\\Services\\unknow\\5442\u041F\\auction-app\\server\\AuctionApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFC789B-6908-3045-969A-80863A2AA3C8}|AuctionApp.csproj|d:\\kostya\\services\\unknow\\5442\u043F\\auction-app\\server\\auctionapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFC789B-6908-3045-969A-80863A2AA3C8}|AuctionApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFC789B-6908-3045-969A-80863A2AA3C8}|AuctionApp.csproj|d:\\kostya\\services\\unknow\\5442\u043F\\auction-app\\server\\auctionapp\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFC789B-6908-3045-969A-80863A2AA3C8}|AuctionApp.csproj|solutionrelative:services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFC789B-6908-3045-969A-80863A2AA3C8}|AuctionApp.csproj|d:\\kostya\\services\\unknow\\5442\u043F\\auction-app\\server\\auctionapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFC789B-6908-3045-969A-80863A2AA3C8}|AuctionApp.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFC789B-6908-3045-969A-80863A2AA3C8}|AuctionApp.csproj|d:\\kostya\\services\\unknow\\5442\u043F\\auction-app\\server\\auctionapp\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFC789B-6908-3045-969A-80863A2AA3C8}|AuctionApp.csproj|solutionrelative:models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFC789B-6908-3045-969A-80863A2AA3C8}|AuctionApp.csproj|d:\\kostya\\services\\unknow\\5442\u043F\\auction-app\\server\\auctionapp\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFC789B-6908-3045-969A-80863A2AA3C8}|AuctionApp.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFC789B-6908-3045-969A-80863A2AA3C8}|AuctionApp.csproj|d:\\kostya\\services\\unknow\\5442\u043F\\auction-app\\server\\auctionapp\\models\\lotstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFC789B-6908-3045-969A-80863A2AA3C8}|AuctionApp.csproj|solutionrelative:models\\lotstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFC789B-6908-3045-969A-80863A2AA3C8}|AuctionApp.csproj|d:\\kostya\\services\\unknow\\5442\u043F\\auction-app\\server\\auctionapp\\models\\lot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFC789B-6908-3045-969A-80863A2AA3C8}|AuctionApp.csproj|solutionrelative:models\\lot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFC789B-6908-3045-969A-80863A2AA3C8}|AuctionApp.csproj|d:\\kostya\\services\\unknow\\5442\u043F\\auction-app\\server\\auctionapp\\models\\bid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFC789B-6908-3045-969A-80863A2AA3C8}|AuctionApp.csproj|solutionrelative:models\\bid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFC789B-6908-3045-969A-80863A2AA3C8}|AuctionApp.csproj|d:\\kostya\\services\\unknow\\5442\u043F\\auction-app\\server\\auctionapp\\dtos\\userdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFC789B-6908-3045-969A-80863A2AA3C8}|AuctionApp.csproj|solutionrelative:dtos\\userdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFC789B-6908-3045-969A-80863A2AA3C8}|AuctionApp.csproj|d:\\kostya\\services\\unknow\\5442\u043F\\auction-app\\server\\auctionapp\\dtos\\lotdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFC789B-6908-3045-969A-80863A2AA3C8}|AuctionApp.csproj|solutionrelative:dtos\\lotdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFC789B-6908-3045-969A-80863A2AA3C8}|AuctionApp.csproj|d:\\kostya\\services\\unknow\\5442\u043F\\auction-app\\server\\auctionapp\\dtos\\biddtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFC789B-6908-3045-969A-80863A2AA3C8}|AuctionApp.csproj|solutionrelative:dtos\\biddtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFC789B-6908-3045-969A-80863A2AA3C8}|AuctionApp.csproj|d:\\kostya\\services\\unknow\\5442\u043F\\auction-app\\server\\auctionapp\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFC789B-6908-3045-969A-80863A2AA3C8}|AuctionApp.csproj|solutionrelative:dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFC789B-6908-3045-969A-80863A2AA3C8}|AuctionApp.csproj|d:\\kostya\\services\\unknow\\5442\u043F\\auction-app\\server\\auctionapp\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFC789B-6908-3045-969A-80863A2AA3C8}|AuctionApp.csproj|solutionrelative:data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFC789B-6908-3045-969A-80863A2AA3C8}|AuctionApp.csproj|d:\\kostya\\services\\unknow\\5442\u043F\\auction-app\\server\\auctionapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFC789B-6908-3045-969A-80863A2AA3C8}|AuctionApp.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFC789B-6908-3045-969A-80863A2AA3C8}|AuctionApp.csproj|d:\\kostya\\services\\unknow\\5442\u043F\\auction-app\\server\\auctionapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3FFC789B-6908-3045-969A-80863A2AA3C8}|AuctionApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Kostya\\Services\\unknow\\5442\u041F\\auction-app\\server\\AuctionApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Kostya\\Services\\unknow\\5442\u041F\\auction-app\\server\\AuctionApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T17:27:18.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "D:\\Kostya\\Services\\unknow\\5442\u041F\\auction-app\\server\\AuctionApp\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "Services\\JwtService.cs",
+              "ToolTip": "D:\\Kostya\\Services\\unknow\\5442\u041F\\auction-app\\server\\AuctionApp\\Services\\JwtService.cs",
+              "RelativeToolTip": "Services\\JwtService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T17:27:14.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Kostya\\Services\\unknow\\5442\u041F\\auction-app\\server\\AuctionApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\Kostya\\Services\\unknow\\5442\u041F\\auction-app\\server\\AuctionApp\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T17:27:11.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "D:\\Kostya\\Services\\unknow\\5442\u041F\\auction-app\\server\\AuctionApp\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "Models\\Tag.cs",
+              "ToolTip": "D:\\Kostya\\Services\\unknow\\5442\u041F\\auction-app\\server\\AuctionApp\\Models\\Tag.cs",
+              "RelativeToolTip": "Models\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T17:27:10.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\Kostya\\Services\\unknow\\5442\u041F\\auction-app\\server\\AuctionApp\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Models\\Role.cs",
+              "ToolTip": "D:\\Kostya\\Services\\unknow\\5442\u041F\\auction-app\\server\\AuctionApp\\Models\\Role.cs",
+              "RelativeToolTip": "Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T17:27:10.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LotStatus.cs",
+              "DocumentMoniker": "D:\\Kostya\\Services\\unknow\\5442\u041F\\auction-app\\server\\AuctionApp\\Models\\LotStatus.cs",
+              "RelativeDocumentMoniker": "Models\\LotStatus.cs",
+              "ToolTip": "D:\\Kostya\\Services\\unknow\\5442\u041F\\auction-app\\server\\AuctionApp\\Models\\LotStatus.cs",
+              "RelativeToolTip": "Models\\LotStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T17:27:09.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lot.cs",
+              "DocumentMoniker": "D:\\Kostya\\Services\\unknow\\5442\u041F\\auction-app\\server\\AuctionApp\\Models\\Lot.cs",
+              "RelativeDocumentMoniker": "Models\\Lot.cs",
+              "ToolTip": "D:\\Kostya\\Services\\unknow\\5442\u041F\\auction-app\\server\\AuctionApp\\Models\\Lot.cs",
+              "RelativeToolTip": "Models\\Lot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T17:27:09.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bid.cs",
+              "DocumentMoniker": "D:\\Kostya\\Services\\unknow\\5442\u041F\\auction-app\\server\\AuctionApp\\Models\\Bid.cs",
+              "RelativeDocumentMoniker": "Models\\Bid.cs",
+              "ToolTip": "D:\\Kostya\\Services\\unknow\\5442\u041F\\auction-app\\server\\AuctionApp\\Models\\Bid.cs",
+              "RelativeToolTip": "Models\\Bid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T17:27:08.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserDtos.cs",
+              "DocumentMoniker": "D:\\Kostya\\Services\\unknow\\5442\u041F\\auction-app\\server\\AuctionApp\\DTOs\\UserDtos.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserDtos.cs",
+              "ToolTip": "D:\\Kostya\\Services\\unknow\\5442\u041F\\auction-app\\server\\AuctionApp\\DTOs\\UserDtos.cs",
+              "RelativeToolTip": "DTOs\\UserDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T17:27:02.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LotDtos.cs",
+              "DocumentMoniker": "D:\\Kostya\\Services\\unknow\\5442\u041F\\auction-app\\server\\AuctionApp\\DTOs\\LotDtos.cs",
+              "RelativeDocumentMoniker": "DTOs\\LotDtos.cs",
+              "ToolTip": "D:\\Kostya\\Services\\unknow\\5442\u041F\\auction-app\\server\\AuctionApp\\DTOs\\LotDtos.cs",
+              "RelativeToolTip": "DTOs\\LotDtos.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T17:26:59.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BidDtos.cs",
+              "DocumentMoniker": "D:\\Kostya\\Services\\unknow\\5442\u041F\\auction-app\\server\\AuctionApp\\DTOs\\BidDtos.cs",
+              "RelativeDocumentMoniker": "DTOs\\BidDtos.cs",
+              "ToolTip": "D:\\Kostya\\Services\\unknow\\5442\u041F\\auction-app\\server\\AuctionApp\\DTOs\\BidDtos.cs",
+              "RelativeToolTip": "DTOs\\BidDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T17:26:58.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthDtos.cs",
+              "DocumentMoniker": "D:\\Kostya\\Services\\unknow\\5442\u041F\\auction-app\\server\\AuctionApp\\DTOs\\AuthDtos.cs",
+              "RelativeDocumentMoniker": "DTOs\\AuthDtos.cs",
+              "ToolTip": "D:\\Kostya\\Services\\unknow\\5442\u041F\\auction-app\\server\\AuctionApp\\DTOs\\AuthDtos.cs",
+              "RelativeToolTip": "DTOs\\AuthDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T17:26:56.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\Kostya\\Services\\unknow\\5442\u041F\\auction-app\\server\\AuctionApp\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Data\\DbInitializer.cs",
+              "ToolTip": "D:\\Kostya\\Services\\unknow\\5442\u041F\\auction-app\\server\\AuctionApp\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "Data\\DbInitializer.cs",
+              "ViewState": "AgIAANQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T17:26:51.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Kostya\\Services\\unknow\\5442\u041F\\auction-app\\server\\AuctionApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Kostya\\Services\\unknow\\5442\u041F\\auction-app\\server\\AuctionApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T17:26:46.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Kostya\\Services\\unknow\\5442\u041F\\auction-app\\server\\AuctionApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Kostya\\Services\\unknow\\5442\u041F\\auction-app\\server\\AuctionApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-17T19:37:37.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
